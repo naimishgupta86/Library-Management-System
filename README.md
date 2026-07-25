@@ -15,7 +15,7 @@ Use the following credentials to explore the project:
 
 | Username | Password |
 |----------|----------|
-| admin | admin123 |
+| admin | 12345 |
 
 > **Note:** These credentials are provided only for demonstration purposes.
 
